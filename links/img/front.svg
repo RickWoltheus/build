@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-right" fill-rule="nonzero">
+            <g transform="translate(14.000000, 14.000000) scale(-1, 1) translate(-14.000000, -14.000000) " id="Group">
+                <g>
+                    <circle id="Oval" stroke="#DA0B07" stroke-width="3" fill="#FF2622" cx="13.9804545" cy="13.9804545" r="13.9804545"></circle>
+                    <rect id="Rectangle-path" fill="#FFFFFF" transform="translate(9.704389, 10.984708) rotate(44.810000) translate(-9.704389, -10.984708) " x="7.92257041" y="4.78016288" width="3.56363636" height="12.4090909" rx="1.78181818"></rect>
+                    <rect id="Rectangle-path" fill="#FFFFFF" transform="translate(9.725743, 17.239151) rotate(134.810000) translate(-9.725743, -17.239151) " x="7.94392504" y="11.0346051" width="3.56363636" height="12.4090909" rx="1.78181818"></rect>
+                    <rect id="Rectangle-path" fill="#FFFFFF" transform="translate(13.986633, 13.987748) rotate(89.810000) translate(-13.986633, -13.987748) " x="12.2684514" y="5.68320253" width="3.43636364" height="16.6090909" rx="1.71818182"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
